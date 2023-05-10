@@ -1,3 +1,7 @@
+.col {
+  margin-top: 100px;
+}
+
 .vmodal {}
 
 .vmodal.open .modal-overlay,
